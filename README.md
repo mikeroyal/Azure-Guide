@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114321921-5c765280-9ad2-11eb-923f-ca349f9b8719.png">
+ <img src="https://user-images.githubusercontent.com/45159366/114322511-7ebd9f80-9ad5-11eb-86a2-d530ab31d34e.png">
   <br />
  Microsoft Azure Guide
 </h1>
