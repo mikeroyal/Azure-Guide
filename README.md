@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114322511-7ebd9f80-9ad5-11eb-86a2-d530ab31d34e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/114455828-04eaec00-9b91-11eb-9de0-150ca824fe6c.png">
   <br />
  Microsoft Azure Guide
 </h1>
@@ -57,7 +57,7 @@
 **Microsoft Azure Architecture. Source: [Azure](https://docs.microsoft.com/en-us/azure/architecture/)**
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114321925-61d39d00-9ad2-11eb-985a-208630314c28.png">
+ <img src="https://user-images.githubusercontent.com/45159366/114455807-00bece80-9b91-11eb-9c29-3b57c98883fd.png">
   <br />
 </p>
 
