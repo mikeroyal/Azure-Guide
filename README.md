@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/118413013-01e09100-b652-11eb-95a9-fdb664687470.png">
+ <img src="https://user-images.githubusercontent.com/45159366/143783606-58f4f708-dfe3-40f5-b9e3-c737479dc320.png">
   <br />
  Microsoft Azure Guide
 </h1>
@@ -9,7 +9,7 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114455807-00bece80-9b91-11eb-9c29-3b57c98883fd.png">
+ <img src="https://user-images.githubusercontent.com/45159366/143783612-c514ec01-389a-45f4-a8b3-677793dff50d.png">
   <br />
 </p>
 
