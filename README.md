@@ -60,41 +60,93 @@
 22. [Rust Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#rust-development)
 
 
- <img src="https://user-images.githubusercontent.com/45159366/114321924-6009d980-9ad2-11eb-99f4-71868b48e28d.png">
- 
-**Microsoft Azure Architecture. Source: [Azure](https://docs.microsoft.com/en-us/azure/architecture/)**
-
 # Azure Learning Resources
 
 [Back to the Top](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#table-of-contents)
 
 [Microsoft Azure](https://azure.microsoft.com/en-us/) is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
 
-[Get started with Azure](https://azure.microsoft.com/en-us/get-started/)
+ <img src="https://user-images.githubusercontent.com/45159366/114321924-6009d980-9ad2-11eb-99f4-71868b48e28d.png">
+ 
+**Microsoft Azure Architecture. Source: [Azure](https://docs.microsoft.com/en-us/azure/architecture/)**
 
-[Azure Demo and Q&A](https://azure.microsoft.com/en-us/get-started/webinar/)
+### Developer Resources
+[Back to the Top](https://github.com/mikeroyal/Azure-Guide#table-of-contents)
 
-[Microsoft Azure Training & Certification Courses](https://www.microsoft.com/en-us/learning/azure-training-certification.aspx)
+- [Get started with Azure](https://azure.microsoft.com/en-us/get-started/)
 
-[Azure on Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
+- [Building applications with Azure](https://azure.microsoft.com/en-us/developer/#featured-resources)
 
-[Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+- [Azure on Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
 
-[Microsoft Certified: DevOps Engineer Expert Cert.](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
+- [Microsoft Azure Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)
 
-[Introduction to Azure DevOps from A Cloud Guru](https://acloud.guru/learn/introduction-to-azure-devops)
+- [Microsoft Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
-[Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
+- [Azure Demo and Q&A](https://azure.microsoft.com/en-us/get-started/webinar/)
 
-[Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
+- [Azure code samples](https://docs.microsoft.com/en-us/samples/browse/?products=azure)
 
-[Microsoft Azure Certification Training Courses on Udemy](https://www.udemy.com/topic/microsoft-azure/)
+- [Azure White papers](https://azure.microsoft.com/en-us/resources/whitepapers/)
 
-[Free Microsoft Azure Courses & Tutorials on Udemy](https://www.udemy.com/topic/microsoft-azure/free/)
+- [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 
-[Microsoft Azure Certification Training Courses on Coursera](https://www.coursera.org/learn/cloud-azure-intro)
+- [Azure Cloud Architectures Examples](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 
-[Microsoft Azure Certification Training Courses on edX](https://www.edx.org/learn/azure)
+- [Azure updates](https://azure.microsoft.com/en-us/updates/)
+
+### Certifications & Courses
+[Back to the Top](https://github.com/mikeroyal/Azure-Guide#table-of-contents)
+
+- [Microsoft Azure Training & Certification Courses](https://www.microsoft.com/en-us/learning/azure-training-certification.aspx)
+
+- [Azure on Microsoft Learn](https://docs.microsoft.com/en-us/learn/azure/)
+
+- [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+
+- [Microsoft Certified: DevOps Engineer Expert Cert.](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
+
+- [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty)
+
+- [Microsoft Certified: Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer)
+
+- [Microsoft Azure Certification Training Courses on Udemy](https://www.udemy.com/topic/microsoft-azure/)
+
+- [Free Microsoft Azure Courses & Tutorials on Udemy](https://www.udemy.com/topic/microsoft-azure/free/)
+
+- [Microsoft Azure Certification Training Courses on Coursera](https://www.coursera.org/learn/cloud-azure-intro)
+
+- [Microsoft Azure Certification Training Courses on edX](https://www.edx.org/learn/azure)
+
+### Books
+[Back to the Top](https://github.com/mikeroyal/Azure-Guide#table-of-contents)
+
+- [Exam Ref AZ-900 Microsoft Azure Fundamentals by Jim Cheshire](https://www.amazon.com/Exam-AZ-900-Microsoft-Azure-Fundamentals/dp/0136877184/ref=sr_1_4?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-4)
+
+- [Azure: Microsoft Azure Fundamentals (AZ-900) Practice Tests](https://www.amazon.com/Azure-Microsoft-Fundamentals-AZ-900-Practice/dp/B08SB4ZYRW/ref=sr_1_26?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-26)
+
+- [Azure Data Scientist Associate Certification Guide: A hands-on guide to machine learning in Azure and passing the Microsoft Certified DP-100 exam](https://www.amazon.com/Azure-Scientist-Associate-Certification-hands/dp/1800565003/ref=sr_1_30?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-30)
+
+- [Microsoft Azure Administrator Exam Ref AZ-104](https://www.amazon.com/Exam-AZ-104-Microsoft-Azure-Administrator/dp/0136805388/ref=sr_1_7?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-7)
+
+- [Microsoft Azure Architect Technologies and Design Complete Study Guide: Exams AZ-303 and AZ-304](https://www.amazon.com/Azure-Solutions-Architect-Study-Guide/dp/1119559537/ref=sr_1_10?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-10)
+
+- [Exam Ref AZ-500 Microsoft Azure Security Technologies](https://www.amazon.com/AZ-500-Microsoft-Azure-Security-Technologies/dp/0137834462/ref=sr_1_12?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-12)
+
+- [Microsoft Azure Fundamentals Certification and Beyond](https://www.amazon.com/Microsoft-Azure-Fundamentals-Certification-Beyond/dp/1801073309/ref=sr_1_6?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-6)
+
+- [Microsoft Azure: Learn Microsoft Azure for Beginners](https://www.amazon.com/Azure-Microsoft-Learn-Beginners-ebook/dp/B08B3D7638/ref=sr_1_8?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-8)
+
+- [Microsoft Azure Network Security (IT Best Practices - Microsoft Press)](https://www.amazon.com/Microsoft-Azure-Network-Security-Practices-ebook/dp/B08W41LMC4/ref=sr_1_17?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-17)
+
+- [Azure Security Handbook: A Comprehensive Guide for Defending Your Enterprise Environment](https://www.amazon.com/Azure-Security-Handbook-Comprehensive-Environment-ebook/dp/B09DWSSDM2/ref=sr_1_18?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-18)
+
+- [Microsoft Azure Data Solutions - An Introduction (IT Best Practices - Microsoft Press)](https://www.amazon.com/Microsoft-Azure-Data-Solutions-Introduction/dp/0137252501/ref=sr_1_19?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-19)
+
+- [Microsoft Azure: Build, manage, and scale cloud applications using the Azure Infrastructure](https://www.amazon.com/Azure-Microsoft-manage-applications-Infrastructure/dp/B086Y6M7SN/ref=sr_1_20?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-20)
+
+- [Microsoft Azure Security Center (IT Best Practices - Microsoft Press)](https://www.amazon.com/Microsoft-Azure-Security-Center-Practices/dp/0135752035/ref=sr_1_24?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-24)
+
 
 # Azure Tools
 
