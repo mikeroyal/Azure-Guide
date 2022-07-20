@@ -817,12 +817,12 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 <img src="https://user-images.githubusercontent.com/45159366/105409952-14881380-5be6-11eb-84fc-b07db69698ed.png">
  
- **VMware Cloud First Approach. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html), 2020.**
+ **VMware Cloud First Approach. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html)**
  
  
  <img src="https://user-images.githubusercontent.com/45159366/105409956-1520aa00-5be6-11eb-8215-735c92a5470c.png">
  
- **VMware Telco Cloud Automation Components. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html), 2020.**
+ **VMware Telco Cloud Automation Components. Source: [VMware](https://www.vmware.com/products/telco-cloud-automation.html)**
  
  
 ## Telco Learning Resources
@@ -945,6 +945,46 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [NIST CSF](https://www.nist.gov/national-security-standards) is a voluntary framework primarily intended for critical infrastructure organizations to manage and mitigate cybersecurity risk based on existing best practice.
 
 ## Security Tools
+
+[Microsoft Security Compliance Toolkit (SCT) 1.0](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/security-compliance-toolkit-10) is a set of tools that allows enterprise security administrators to download, analyze, test, edit, and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products. Also checkout [Microsoft Security Baselines](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/new-amp-updated-security-tools/ba-p/1631613)
+
+ - [Microsoft recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+ 
+ - [Windows Server Security documentation](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
+
+[PingCastle](https://www.pingcastle.com/) is a tool to check the security of [Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview).
+
+[Checkov](https://www.checkov.io/) is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It scans cloud infrastructure provisioned using [Terraform](https://terraform.io/), [Terraform plan](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Terraform%20Plan%20Scanning.md), [Cloudformation](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Cloudformation.md), [AWS SAM](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/AWS%20SAM.md), [Kubernetes](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Kubernetes.md), [Helm charts](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Helm.md), [Kustomize](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Kustomize.md), [Dockerfile](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Dockerfile.md), [Serverless](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Serverless%20Framework.md), [Bicep](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Bicep.md), [OpenAPI](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/OpenAPI.md) or [ARM Templates](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Azure%20ARM%20templates.md) and detects security and compliance misconfigurations using graph-based scanning.
+
+[OWASP Nettacker](https://github.com/OWASP/Nettacker) is a project created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software will utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. 
+
+[Terrascan](https://runterrascan.io/) is a static code analyzer for Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. 
+
+[Sliver](https://github.com/BishopFox/sliver) is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
+
+[Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) is a [Microsoft](https://github.com/microsoft/) developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
+
+[Intel Owl](https://intelowl.readthedocs.io/) is an Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. It integrates a number of analyzers available online and a lot of cutting-edge malware analysis tools.
+
+[Deepfence ThreatMapper](https://deepfence.io/) is a runtime tool that hunts for vulnerabilities in your cloud native production platforms(Linux, K8s, AWS Fargate and more.), and ranks these vulnerabilities based on their risk-of-exploit. 
+
+[Dockle](https://containers.goodwith.tech/) is a Container Image Linter for Security and helping build the Best-Practice Docker Image.
+
+[SpiceDB](https://docs.authzed.com/) is an open source database system for managing security-critical application permissions inspired by Google's [Zanzibar](https://authzed.com/blog/what-is-zanzibar/) paper.
+
+[Bandit](https://github.com/PyCQA/bandit) is a tool designed to find common security issues in Python code.
+ 
+[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) is a list of useful payloads and bypass for Web Application Security and Pentest/CTF. 
+
+[TheHive](https://thehive-project.org/) is a scalable 3-in-1 open source and free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. It is the perfect companion to [MISP](http://www.misp-project.org/). 
+
+[Cortex](https://thehive-project.org/) is a Powerful Observable Analysis and Active Response Engine. This solves a common problem frequently encountered by SOCs, CSIRTs and security researchers in the course of threat intelligence, digital forensics and incident response.
+ 
+[Scrummage](https://github.com/matamorphosis/Scrummage) is an OSINT tool that centralises search functionality from a bounty of powerful, publicly-available, third-party, [OSINT](https://osintframework.com/) websites.
+
+[Bettercap](https://www.bettercap.org/) is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking [WiFi](https://www.bettercap.org/modules/wifi/) networks, [Bluetooth Low Energy](https://www.bettercap.org/modules/ble/) devices, wireless [HID](https://www.bettercap.org/modules/hid/) devices and [Ethernet](https://www.bettercap.org/modules/ethernet) networks.
+
+[Wifiphisher](https://wifiphisher.org/) is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can easily achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
 
 [AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.
 
