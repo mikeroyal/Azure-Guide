@@ -152,7 +152,6 @@
 
 [Back to the Top](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#table-of-contents)
 
-
 [Microsoft Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 [Azure command-line interface (Azure CLI)](https://docs.microsoft.com/en-us/cli/azure/) is a command line that provides a set of commands used to create and manage Azure resources. 
@@ -290,6 +289,8 @@
 [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/) is a massively scalable and secure object storage for cloud-native workloads, archives, data lakes, high-performance computing, and machine learning.
 
 [PowerShell/PowerShell Core](https://docs.microsoft.com/en-us/powershell/) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+
+[PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure/) is a suite of rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) creates virtual machines on Windows 10. Hyper-V can be enabled in many ways including using the Windows 10 control panel, PowerShell or using the Deployment Imaging Servicing and Management tool (DISM).
 
