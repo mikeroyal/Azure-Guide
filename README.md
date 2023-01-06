@@ -81,6 +81,10 @@
 
 - [Microsoft Azure Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)
 
+- [Azure updates - Latest updates on Azure products and features.](https://azure.microsoft.com/en-us/updates/)
+
+- [Optimize development and testing cost in Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/optimize-dev-test)
+
 - [Microsoft Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 
 - [Azure Demo and Q&A](https://azure.microsoft.com/en-us/get-started/webinar/)
@@ -93,7 +97,6 @@
 
 - [Azure Cloud Architectures Examples](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 
-- [Azure updates](https://azure.microsoft.com/en-us/updates/)
 
 ### Certifications & Courses
 [Back to the Top](https://github.com/mikeroyal/Azure-Guide#table-of-contents)
