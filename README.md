@@ -163,6 +163,14 @@
 
 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) is a solution for easily running small pieces of code, or "functions," in the cloud. You can write just the code you need for the problem at hand, without worrying about a whole application or the infrastructure to run it. 
 
+[Azure AI Studio](https://oai.azure.com/portal) is a tools that developers can use to more easily base conversational AI models on their private data. With a new capability called Azure OpenAI Service on your data, developers can discover organization-specific insights from data, text and images using natural language-based application interfaces. 
+
+[Azure OpenAI Service](https://azure.microsoft.com/products/cognitive-services/openai-service/) is a tool that takes advantage of large-scale, generative AI models with deep understandings of language and code to enable new reasoning and comprehension capabilities for building cutting-edge applications. 
+
+[Microsoft Azure Fabric](https://azure.microsoft.com/blog/?p=26599) is a unified platform for analytics that includes data engineering, data integration, data warehousing, data science, real-time analytics, applied observability and business intelligence, all connected to a single data repository called OneLake.
+
+[OneLake](https://learn.microsoft.com/fabric/onelake/onelake-overview) is a single, unified, logical data lake for the whole organization. Like OneDrive, OneLake comes automatically with every Microsoft Fabric tenant and is designed to be the single place for all your analytics data.
+
 [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) is a set of services for teams to share code, track work, and ship software; CLIs Build, deploy, diagnose, and manage multi-platform, scalable apps and services; Azure Pipelines Continuously build, test, and deploy to any platform and cloud; Azure Lab Services Set up labs for classrooms, trials, development and testing, and other scenarios.
 
 [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15) is a cross-platform database tool for data professionals using on-premises and cloud data platforms on Windows, macOS, and Linux. It offers a modern editor experience with IntelliSense, code snippets, source control integration, and an integrated terminal. It's engineered with the data platform user in mind, with built-in charting of query result sets and customizable dashboards.
