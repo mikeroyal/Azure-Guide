@@ -23,47 +23,49 @@
 
 1. [Azure Learning Resources](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-learning-resources)
 
-2. [Azure Tools](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-tools)
+2. [Azure Price and Cost Tools](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-Price-and-Cost-Tools)
 
-3. [Azure Devops Tools Integration](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-devops-tools-integration)
+3. [Azure Tools](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-tools)
+
+4. [Azure Devops Tools Integration](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-devops-tools-integration)
  
-4. [Networking](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#networking)
+5. [Networking](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#networking)
 
-5. [Databases](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#databases)
+6. [Databases](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#databases)
 
-6. [Telco 5G](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#telco-5g)
+7. [Telco 5G](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#telco-5g)
 
-7. [Open Source Security](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#open-source-security)
+8. [Open Source Security](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#open-source-security)
 
-8. [Kubernetes](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#kubernetes)
+9. [Kubernetes](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#kubernetes)
 
-9. [Machine Learning](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#machine-learning)
+10. [Machine Learning](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#machine-learning)
 
-10. [Node.js Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#nodejs-development)
+11. [Node.js Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#nodejs-development)
 
-11. [C/C++ Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#cc-development)
+12. [C/C++ Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#cc-development)
 
-12. [Java Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#java-development)
+13. [Java Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#java-development)
 
-13. [Go Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#go-development)
+14. [Go Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#go-development)
 
-14. [Python Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#python-development)
+15. [Python Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#python-development)
 
-15. [TypeScript Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#typescript-development)
+16. [TypeScript Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#typescript-development)
 
-16. [.NET Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#net-development)
+17. [.NET Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#net-development)
 
-17. [C# Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#c-development)
+18. [C# Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#c-development)
 
-18. [F# Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#f-development)
+19. [F# Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#f-development)
 
-19. [Ruby Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#ruby-development)
+20. [Ruby Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#ruby-development)
 
-20. [PHP Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#php-development)
+21. [PHP Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#php-development)
 
-21. [Bash/PowerShell Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#bashpowershell-development)
+22. [Bash/PowerShell Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#bashpowershell-development)
 
-22. [Rust Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#rust-development)
+23. [Rust Development](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#rust-development)
 
 
 # Azure Learning Resources
@@ -157,11 +159,17 @@
 - [Microsoft Azure Security Center (IT Best Practices - Microsoft Press)](https://www.amazon.com/Microsoft-Azure-Security-Center-Practices/dp/0135752035/ref=sr_1_24?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-24)
 
 
-# Azure Tools
-
+# Azure Price and Cost Tools
 [Back to the Top](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#table-of-contents)
 
 [Microsoft Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+
+![logo](https://azureprice.net/favicon.ico) [Azureprice.net - Azure VM Comparison](https://azureprice.net) Find and compare Azure Virtual Machines specs and pricing on one page across different tiers, payment types, and regions. 
+
+[Microsoft Azure Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/) Estimate the cost savings you can realize by migrating your workloads to Azure
+
+# Azure Tools
+[Back to the Top](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#table-of-contents)
 
 [Azure command-line interface (Azure CLI)](https://docs.microsoft.com/en-us/cli/azure/) is a command line that provides a set of commands used to create and manage Azure resources. 
 
