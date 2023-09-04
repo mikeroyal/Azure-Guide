@@ -156,6 +156,18 @@
 
 - [Microsoft Azure Security Center (IT Best Practices - Microsoft Press)](https://www.amazon.com/Microsoft-Azure-Security-Center-Practices/dp/0135752035/ref=sr_1_24?keywords=Microsoft+Azure&qid=1654061161&s=books&sr=1-24)
 
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![Microsoft Azure Overview](https://ytcards.demolab.com/?id=oPSHs71mTVU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Microsoft Azure Overview")](https://www.youtube.com/watch?v=oPSHs71mTVU) 
+[![Azure Linux with Azure Kubernetes Service (AKS)](https://ytcards.demolab.com/?id=AKjgrveI9ww&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Azure Linux with Azure Kubernetes Service (AKS)")](https://www.youtube.com/watch?v=AKjgrveI9ww) 
+[![Bringing VMware to Azure: Overview of Azure VMware Solution](https://ytcards.demolab.com/?id=VaF-f4DgK2s&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Bringing VMware to Azure: Overview of Azure VMware Solution")](https://www.youtube.com/watch?v=VaF-f4DgK2s) 
+[![Azure AI Studio: Jessica Hawk at Microsoft Inspire 2023](https://ytcards.demolab.com/?id=NckoLjJSXdc&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Azure AI Studio: Jessica Hawk at Microsoft Inspire 2023")](https://www.youtube.com/watch?v=NckoLjJSXdc) 
+[![How to get started with Azure Virtual Desktop | Azure Tips and Tricks](https://ytcards.demolab.com/?id=wJ3UFsr6z-w&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to get started with Azure Virtual Desktop | Azure Tips and Tricks")](https://www.youtube.com/watch?v=wJ3UFsr6z-w) 
+[![Azure Tips & Tricks Playlist](https://ytcards.demolab.com/?id=kDI4jVP-KCQ&list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Azure Tips & Tricks Playlist")](https://www.youtube.com/watch?v=kDI4jVP-KCQ&list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC) 
+[![Azure Developer Streams](https://ytcards.demolab.com/?id=TBrAWVL5Ii0&list=PLLasX02E8BPCZvTqDoDCA2_csHR5FCnhC&pp=iAQB&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Azure Developer Streams")](https://www.youtube.com/watch?v=TBrAWVL5Ii0&list=PLLasX02E8BPCZvTqDoDCA2_csHR5FCnhC&pp=iAQB) 
+[![Microsoft Azure Fundamentals (AZ-900) Full Course](https://ytcards.demolab.com/?id=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Microsoft Azure Fundamentals (AZ-900) Full Course")](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) 
 
 # Azure Tools
 
