@@ -22,7 +22,11 @@
 # Table of Contents
 
 1. [Azure Learning Resources](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-learning-resources)
-
+    - [Developer Resources](#developer-resources)
+    - [Azure Training & Courses](#certifications--courses)
+    - [Azure Books](#books)
+    - [YouTube Tutorials](#youtube-tutorials)
+      
 2. [Azure Tools](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-tools)
 
 3. [Azure Devops Tools Integration](https://github.com/mikeroyal/Azure-Guide/blob/main/README.md#Azure-devops-tools-integration)
