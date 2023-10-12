@@ -209,6 +209,8 @@
 
 [Azure Service Fabric](https://azure.microsoft.com/en-us/services/service-fabric/) is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers. Service Fabric also addresses the significant challenges in developing and managing cloud native applications. It powers core Azure infrastructure as well as other Microsoft services such as Skype for Business, Intune, Azure Event Hubs, Azure Data Factory, Azure Cosmos DB, Azure SQL Database, Dynamics 365, and Cortana.
 
+[Azure ExpressRoute Traffic Collector](https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/) is a service that enables you to capture information about IP flows sent over ExpressRoute direct circuits. The user can enable flow logs capture for both Private and Microsoft peering with ExpressRoute Traffic Collector. It captures flow logs data get sent to a Log Analytics workspace where you can create your own log queries for further analysis.
+
 [Microsoft Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) is a tool that emulates the Azure Blob, Queue, and Table services for local development purposes. You can test your application against the storage services locally without creating an Azure subscription or incurring any costs.
 
 [Azure Cosmos DB Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator?tabs=cli,ssl-netstd21) is a tool that provides a local environment that emulates the Azure Cosmos DB service for development purposes. Using the Azure Cosmos DB Emulator, you can develop and test your application locally, without creating an Azure subscription or incurring any costs.
