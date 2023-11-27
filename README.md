@@ -107,6 +107,11 @@
 
 - [Azure Cloud Architectures Examples](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 
+- [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks)
+
+- [Awesome Azure Architecture](https://aka.ms/AwesomeAzureArchitecture) is a curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
+
+- [Awesome azd](https://aka.ms/awesome-azd) is an awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & discovery.
 
 ### Certifications & Courses
 [Back to the Top](https://github.com/mikeroyal/Azure-Guide#table-of-contents)
